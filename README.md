@@ -1,4 +1,4 @@
-# Phase 2 - Milestones 1
+# Land Use Classification Satelite Imagery
 
 _. With background from GIS world, I have concern in interpreting land use classification through Satelite Imagery. This project is created to classify land use from Satelite Imagery ._
 
